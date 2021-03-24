@@ -2,8 +2,9 @@
 2021년 1학기 소프트융합대학 캡스톤디자인입니다.  
  
 ## 공지사항
-### - 캡스톤 디자인 일정 확정 : 아래 표 참조
-### - AWS등 웹호스팅 비용 사용가능(문의 : 최유정 248-3344)
+### SW 설계 특강
+ https://sw.hallym.ac.kr/index.php?mt=page&mp=5_1&mm=oxbbs&oxid=1&cpage=1&key=&val=&CAT_ID=0&BID=218&cmd=view
+
 ## 일정
 제출 문서 기한을 넘길경우 1일당 각 문서 점수의 5%의 감점
 ![image](https://user-images.githubusercontent.com/60763110/111561466-d66b3280-87d7-11eb-9f86-fc63c854ed9f.png)
