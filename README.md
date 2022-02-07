@@ -17,7 +17,7 @@ ___
 제출 문서 기한을 넘길경우 1일당 각 문서 점수의 5%의 감점
 
 # 팀 목록
-<span style="color:blue">특정 구성원들의 의사소통 및 의견전달을 위한 React 웹 채팅 프로그램.</span>
+[<span style="color:blue">특정 구성원들의 의사소통 및 의견전달을 위한 React 웹 채팅 프로그램.</span>](https://github.com/Seung-wan/wewe) 
 - 팀명 : wewe
 - 팀원 : 유승완, 이정민
 - 지도교수 : 김의직
