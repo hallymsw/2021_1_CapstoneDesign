@@ -13,8 +13,6 @@ ___
 #### 2021년 1학기 캡스톤디자인 경진대회 시상규모
 ![image](https://user-images.githubusercontent.com/60763110/118602676-f1fdb400-b7ed-11eb-995d-7e914c8e2a3b.png)
 
-# 일정
-제출 문서 기한을 넘길경우 1일당 각 문서 점수의 5%의 감점
 
 # 팀 목록
 [<span style="color:blue">특정 구성원들의 의사소통 및 의견전달을 위한 React 웹 채팅 프로그램</span>](https://github.com/Seung-wan/wewe) 
@@ -34,3 +32,21 @@ ___
 - 팀원 : 전현지, 정성관
 - 지도교수 : 이주성
 - 참여기업 : (주)가온미디어
+
+[<span style="color:blue">한방</span>](https://github.com/innochallmj/HANRoom) 
+- 팀명 : 공우꺼  
+- 팀원 : 이영주, 이명주, 윤희연, 이소민, 홍소희
+- 지도교수 : 김태운
+- 참여기업 : Luxoft
+
+[<span style="color:blue">VR산림치유</span>](https://github.com/MyungJewon/2021_1_CapstoneDesign_forest) 
+- 팀명 : 눈떠보니산속  
+- 팀원 : 명제원, 허지혜, 김은지
+- 지도교수 : 김선정
+- 참여기업 : 오르카소프트
+
+[<span style="color:blue">대학병원의 환자 관리 서비스</span>](https://github.com/qkrqhdtn3/Capstone_Design_Hospital) 
+- 팀명 : 하스피털  
+- 팀원 : 박장우, 최수람, 박봉재, 신경재
+- 지도교수 : 김유섭
+- 참여기업 : ㈜현대자동차
