@@ -17,8 +17,20 @@ ___
 제출 문서 기한을 넘길경우 1일당 각 문서 점수의 5%의 감점
 
 # 팀 목록
-[<span style="color:blue">특정 구성원들의 의사소통 및 의견전달을 위한 React 웹 채팅 프로그램.</span>](https://github.com/Seung-wan/wewe) 
+[<span style="color:blue">특정 구성원들의 의사소통 및 의견전달을 위한 React 웹 채팅 프로그램</span>](https://github.com/Seung-wan/wewe) 
 - 팀명 : wewe
 - 팀원 : 유승완, 이정민
 - 지도교수 : 김의직
 - 참여기업 : 시밀레
+
+[<span style="color:blue">Journey There</span>](https://github.com/gangjonggeun/journey_there) 
+- 팀명 : Journey There
+- 팀원 : 강종근, 정성은, 김승현, 유정하, 박도근
+- 지도교수 : 김의직
+- 참여기업 : (주)소풍앤컴퍼니
+- 
+[<span style="color:blue">업무용 웹 메신저</span>](https://github.com/chz9812/7942) 
+- 팀명 : 7942
+- 팀원 : 전현지, 정성관
+- 지도교수 : 이주성
+- 참여기업 : (주)가온미디어
