@@ -26,7 +26,7 @@ ___
 - 팀원 : 강종근, 정성은, 김승현, 유정하, 박도근
 - 지도교수 : 김의직
 - 참여기업 : (주)소풍앤컴퍼니
-- 
+
 [<span style="color:blue">업무용 웹 메신저</span>](https://github.com/chz9812/7942) 
 - 팀명 : 7942
 - 팀원 : 전현지, 정성관
@@ -50,3 +50,53 @@ ___
 - 팀원 : 박장우, 최수람, 박봉재, 신경재
 - 지도교수 : 김유섭
 - 참여기업 : ㈜현대자동차
+
+[<span style="color:blue">딥러닝을 통한 가짜 얼굴 생성과 가짜 얼굴 이미지 판별</span>](https://github.com/kyoung-lee/capstone) 
+- 팀명 : 5인이상집합금지  
+- 팀원 : 이경, 최민기, 어형규, 구영모, 홍승택
+- 지도교수 : 임성훈
+- 참여기업 : VRLAB
+
+
+[<span style="color:blue">림택시</span>](https://github.com/r0ach0/LymTaxi) 
+- 팀명 : 1997  
+- 팀원 : 박희웅, 김범진, 김승민
+- 지도교수 : 김태운
+- 참여기업 : ㈜더픽트
+
+[<span style="color:blue">반려동물 케어 시스템</span>](https://github.com/jaeseonglee/BigData_Capstone_Design) 
+- 팀명 : ACM  
+- 팀원 : 유병학, 양성웅, 이재성, 지현한
+- 지도교수 : 고영웅
+- 참여기업 : 인반트
+
+[<span style="color:blue">차량(출장)관리 프로그램</span>](https://github.com/LeeJongAnn/capstone_CMD) 
+- 팀명 : CMD  
+- 팀원 : 강호림, 이종안, 최경준, 김재호, 선민구
+- 지도교수 : 김태운
+- 참여기업 :(주)스프링웍스
+
+
+[<span style="color:blue">Deepfake 탐지 모델 강화</span>](https://github.com/CapstoneDesign-FakeCheck/FakeCheck) 
+- 팀명 : FakeCheck  
+- 팀원 : 이상영, 김지호
+- 지도교수 : 김태운
+- 참여기업 :(주)인반트
+
+[<span style="color:blue">흑백사진을 컬러사진으로 바꿔주는 AI</span>](https://github.com/jtj7387/AI_Capstone) 
+- 팀명 : From PM to AM  
+- 팀원 : 진태준, 윤수연, 허다문
+- 지도교수 : 류세민 
+- 참여기업 : VRLAB
+
+[<span style="color:blue">35년</span>](https://github.com/zirodragon123/it-s-misskorea) 
+- 팀명 : IT'S 미스코리아 
+- 팀원 : 이정수, 김도현, 임형준, 안지용, 고민성
+- 지도교수 : 김선정  
+- 참여기업 : (주)HD테크놀로지
+
+[<span style="color:blue">자동 창문 개/폐 장치</span>](https://github.com/Leeuenho/github_2021.git) 
+- 팀명 : Lock and Door
+- 팀원 : 이은호, 양희동, 조성빈
+- 지도교수 : 이선우   
+- 참여기업 : (주)삼성전자
